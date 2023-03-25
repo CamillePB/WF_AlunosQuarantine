@@ -1,0 +1,13 @@
+D:\2ANO\Tecnico\DS_I\WF_AlunosQuarantine\WF_AlunosQuarantine\obj\Debug\WF_AlunosQuarantine.csprojAssemblyReference.cache
+D:\2ANO\Tecnico\DS_I\WF_AlunosQuarantine\WF_AlunosQuarantine\obj\Debug\WF_AlunosQuarantine.Properties.Resources.resources
+D:\2ANO\Tecnico\DS_I\WF_AlunosQuarantine\WF_AlunosQuarantine\obj\Debug\WF_AlunosQuarantine.csproj.GenerateResource.cache
+D:\2ANO\Tecnico\DS_I\WF_AlunosQuarantine\WF_AlunosQuarantine\bin\Debug\WF_AlunosQuarantine.exe.config
+D:\2ANO\Tecnico\DS_I\WF_AlunosQuarantine\WF_AlunosQuarantine\bin\Debug\WF_AlunosQuarantine.exe
+D:\2ANO\Tecnico\DS_I\WF_AlunosQuarantine\WF_AlunosQuarantine\bin\Debug\WF_AlunosQuarantine.pdb
+D:\2ANO\Tecnico\DS_I\WF_AlunosQuarantine\WF_AlunosQuarantine\obj\Debug\WF_AlunosQuarantine.csproj.CopyComplete
+D:\2ANO\Tecnico\DS_I\WF_AlunosQuarantine\WF_AlunosQuarantine\obj\Debug\WF_AlunosQuarantine.exe
+D:\2ANO\Tecnico\DS_I\WF_AlunosQuarantine\WF_AlunosQuarantine\obj\Debug\WF_AlunosQuarantine.pdb
+D:\2ANO\Tecnico\DS_I\WF_AlunosQuarantine\WF_AlunosQuarantine\obj\Debug\WF_AlunosQuarantine.Form3.resources
+D:\2ANO\Tecnico\DS_I\WF_AlunosQuarantine\WF_AlunosQuarantine\obj\Debug\WF_AlunosQuarantine.Form2.resources
+D:\2ANO\Tecnico\DS_I\WF_AlunosQuarantine\WF_AlunosQuarantine\obj\Debug\WF_AlunosQuarantine.Form4.resources
+D:\2ANO\Tecnico\DS_I\WF_AlunosQuarantine\WF_AlunosQuarantine\obj\Debug\WF_AlunosQuarantine.csproj.CoreCompileInputs.cache
